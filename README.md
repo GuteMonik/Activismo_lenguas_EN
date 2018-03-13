@@ -1,8 +1,10 @@
-# [ Project Title ]
+# [ Activismo lenguas: a online resource exchange for language digital activism]
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+[Mission statement]
+We working with indigenous communities/digital activists to make a methodology that allows to start a project of digital activism of indigenous languages to speakers of the indigenous languages, interested in using technological tools to revitalize languages, and general public with interes in the linguistically diverse web; so they can participate and interact with other people, start projects, develop them and make them sustainable.
 
-[ If you have one, add your logo or an image here ]
+In the digital activism movement of indigenous languages we find many success stories, other initiatives that started but did not continue for different situations. Taking into account the above, we want the experiences of several activists to be the basis to propose a methodology for the initiation, development and sustainability of new ideas. We working open because because we believe that a way to make visible the initiatives, face challenges and find solutions to problems is through the visibility and opening of the initiative.
+
 
 [ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
 
