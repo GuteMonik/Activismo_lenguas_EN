@@ -1,4 +1,4 @@
-# [ Activismo lenguas: a online resource exchange for language digital activism]
+#  Activismo lenguas: a online resource exchange for language digital activism
 
 [Mission statement]
 We working with indigenous communities/digital activists to make a methodology that allows to start a project of digital activism of indigenous languages to speakers of the indigenous languages, interested in using technological tools to revitalize languages, and general public with interes in the linguistically diverse web; so they can participate and interact with other people, start projects, develop them and make them sustainable.
