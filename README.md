@@ -1,10 +1,4 @@
-#  Activismo lenguas: a online resource exchange for language digital activism
-
-We working with indigenous communities/digital activists to make a methodology that allows to start a project of digital activism of indigenous languages to speakers of the indigenous languages, interested in using technological tools to revitalize languages, and general public with interes in the linguistically diverse web; so they can participate and interact with other people, start projects, develop them and make them sustainable.
-
-In the digital activism movement of indigenous languages we find many success stories, other initiatives that started but did not continue for different situations. Taking into account the above, we want the experiences of several activists to be the basis to propose a methodology for the initiation, development and sustainability of new ideas. We working open because because we believe that a way to make visible the initiatives, face challenges and find solutions to problems is through the visibility and opening of the initiative.
-
-## README.md
+# README.md
 Inspire indigenous languages speakers for participating, learn and exchange for an open and linguistically diverse web.
 
 Welcome! ¡Bienvenido! 
