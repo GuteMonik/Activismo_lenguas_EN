@@ -5,15 +5,9 @@ We working with indigenous communities/digital activists to make a methodology t
 In the digital activism movement of indigenous languages we find many success stories, other initiatives that started but did not continue for different situations. Taking into account the above, we want the experiences of several activists to be the basis to propose a methodology for the initiation, development and sustainability of new ideas. We working open because because we believe that a way to make visible the initiatives, face challenges and find solutions to problems is through the visibility and opening of the initiative.
 
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
-
-## Getting Started
-
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
-
 ## Contributing
 
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Thanks for your interest in contributing to Activismo Lenguas! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Participation Guidelines
 
