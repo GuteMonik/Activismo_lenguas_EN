@@ -59,6 +59,7 @@ We are very interested in receiving feedback, comments and suggestions regarding
 
 ## Contributing
 Thanks for your interest in contributing to Activismo Lenguas! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+
 Another way to get in touch with us and contribute is through e-mail. Please subscribe to: monica.bonilla@globalvoices.org
 
 
