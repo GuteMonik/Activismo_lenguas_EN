@@ -1,7 +1,3 @@
-Use the Mozilla community participation guidelines below, or write you own Code of Coduct [using this exercise](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).
-
----
-
 <!--- MOZILLA COMMUNITY PARTICIPATION GUIDLINES --->
 # Participation Guidelines
 
@@ -26,11 +22,11 @@ Mozilla-based activities should be inclusive and should support such diversity.
 
 ## Raising Issues at #mozsprint
 
-If you believe you‘re experiencing practices at #mozsprint which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact Zannah Marsh.
+If you believe you‘re experiencing practices at #mozsprint which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact Mónica Bonilla.
 
 #mozsprint organisers reserve the right to refuse admission to anyone violating these policies, and/or take further action including expulsion from the event.
 
-Email: askopenleadership@mozillafoundation.org 
+Email: monica.bonilla@globalvoices.org 
 
 ## Working in the Open
 
