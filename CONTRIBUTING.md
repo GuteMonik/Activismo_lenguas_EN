@@ -1,9 +1,10 @@
 # Contributing to [Project]
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+Hello! First of all we want to thank you for taking the time to contribute to the Network of digital activists of indigenous languages
 
-Restart your project vision here. Redundancy is your friend
+Below you will find a set of guidelines to contribute with Activism Languages and their projects, most of them are hosted on our portal and also repository on GitHub. The points we present are some guidelines and not rules, so feel free to propose changes and improvements to the documents and proposals.
+
+
 >[Project] is ...
 
 Add some info on *why* people should read your contributor guidelines and *what* they are.
