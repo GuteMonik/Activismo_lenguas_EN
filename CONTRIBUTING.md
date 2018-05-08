@@ -1,11 +1,10 @@
 # Contributing to [Project]
 
-Hello! First of all we want to thank you for taking the time to contribute to the Network of digital activists of indigenous languages
+Add a bit of welcome and cheer at the top
+>Thank you for your interest in contributing to Activismo Lenguas project :tada:! 
 
-Below you will find a set of guidelines to contribute with Activism Languages and their projects, most of them are hosted on our portal and also repository on GitHub. The points we present are some guidelines and not rules, so feel free to propose changes and improvements to the documents and proposals.
-
-
->[Project] is ...
+Restart your project vision here. Redundancy is your friend
+>[The project seeks to create a portal for peer learning and exchange for communities participating in an open and linguistically diverse web. Built upon the shared experiences of indigenous language digital activists in Latin America, the portal will document existing initiatives of digital activism in native languages, resources to start a project what tools to use, and what strategies to follow to make your project of language digital activism sustainable.
 
 Add some info on *why* people should read your contributor guidelines and *what* they are.
 
