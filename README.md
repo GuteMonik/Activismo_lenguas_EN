@@ -64,7 +64,7 @@ Another way to get in touch with us and contribute is through e-mail. Please sub
 
 
 ## Participation Guidelines
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to monica.bonilla64@globalvoices.org
 
 
 ## Thank you!
